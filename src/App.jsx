@@ -1,4 +1,4 @@
-import Box from "./examples/Box"
+import Box from "./Components/Box"
 
 const CONTAINER_STYLE = {
   width: "500px",
