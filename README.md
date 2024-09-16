@@ -4,7 +4,7 @@ This minimal React project illustrates an example use case for the useLayoutEffe
 
 ## Installation
 
-- **git clone REPO_URL**
+- **git clone https://github.com/Emrebener/uselayouteffect-example**
 - **cd uselayouteffect-example**
 - **npm i** (installs dependencies)
 - **npm run dev** (starts local development server)
